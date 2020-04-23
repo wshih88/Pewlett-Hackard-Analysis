@@ -1,6 +1,6 @@
 # Pewlett-Hackard-Analysis
 ## Technical Deliverable 1:
-Of the employees in Pewlett-Hackard, we found that 6,347 employees are nearing retirement. The breakdown of the expected employees based on their position title are as stated:
+Of the employees in Pewlett-Hackard, we found that 6,347 employees are nearing retirement(see emp_ret_list for detailed results). The breakdown of the expected employees based on their position title are as stated:
 1388	"Engineer"
 1687	"Senior Engineer"
 1	    "Manager"
